@@ -1,5 +1,8 @@
 <h4 align="center">
-  <a href=https://www.gpttamerchallenge.com/about> GPT-Tamer's Homepage </a> 
+  <a href=https://www.gpttamerchallenge.com/about> 比赛介绍 </a> |
+  <a href=https://www.gpttamerchallenge.com/rules> 参赛者须知 </a> |
+  <a href=https://www.gpttamerchallenge.com/557770298711> 每日排行榜 </a> |
+  <a href=https://www.gpttamerchallenge.com/139453715447> 关于我们 </a> 
 </h4>
 
 **你好！欢迎参加我们的ChatGPT赚钱大赛，参与者需要在为期31天的比赛中驯服并充分利用ChatGPT的能力以获得收益。换句话来说，ChatGPT将成为你的联合创始人，你们需要在31天内一起想办法赚钱。**
