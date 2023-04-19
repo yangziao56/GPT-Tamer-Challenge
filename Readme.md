@@ -1,3 +1,8 @@
+​          GPT-Tamer's Homepage
+<h4 align="center">
+  <a href=https://www.gpttamerchallenge.com/about> GPT-Tamer's Homepage </a> 
+</h4>
+
 **你好！欢迎参加我们的ChatGPT赚钱大赛，参与者需要在为期31天的比赛中驯服并充分利用ChatGPT的能力以获得收益。换句话来说，ChatGPT将成为你的联合创始人，你们需要在31天内一起想办法赚钱。**
 
 ​          Hello, Welcome to our ChatGPT Money-Making Contest: GPT Tamer Challenge (GPTTC). Participants need to tame and fully utilize the capabilities of ChatGPT to generate profits during the 31-day competition. In other words, ChatGPT will become your co-founder, and you need to work together to find ways to make money within 31 days.
