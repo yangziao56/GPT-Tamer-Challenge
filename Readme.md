@@ -1,4 +1,3 @@
-​          GPT-Tamer's Homepage
 <h4 align="center">
   <a href=https://www.gpttamerchallenge.com/about> GPT-Tamer's Homepage </a> 
 </h4>
